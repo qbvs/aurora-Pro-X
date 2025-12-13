@@ -1,0 +1,5 @@
+{
+  "name": "Aurora Pro Navigation",
+  "description": "A beautiful, AI-powered personal dashboard with Vercel KV sync support and day/night modes.",
+  "requestFramePermissions": []
+}
